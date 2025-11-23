@@ -1,10 +1,16 @@
 {
-    "user": [
+    "users": [
         {
             "id": 1,
             "name": "lisichka",
             "surname": "ls",
             "photo_url": "https://as2.ftcdn.net/v2/jpg/00/76/47/97/1000_F_76479767_gv1iIKiZ0e9K1gw8YLGx5HBAQRHufrFB.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Liao",
+            "surname": "Xi" ,
+            "photo_url": "https://i.pinimg.com/originals/f8/24/51/f8245125fc436fc66fa19b9f4ff88cfa.png"       
         }
     ],
 
