@@ -38,6 +38,12 @@
             "name": "yagoda",
             "description": "spelaya wishenka",
             "photo_url": "https://ih1.redbubble.net/image.5304626467.7424/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u8.jpg"
+        },
+        {
+            "id": 5,
+            "name": "supchik",
+            "description": "saurian hunters",
+            "photo_url": "https://img.game8.co/3992479/4e502816a4f0e75d545106ac0e7f160d.png/show"
         }
     ]
 }
