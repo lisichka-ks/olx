@@ -20,12 +20,18 @@
             "name": "pudding",
             "description": "japan pudding cat",
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYAFtn6cS838iD4eZ5TAkZZXn4GNAETthGw&s"
-        }
+        },
         {
             "id": 1,
             "name": "tartaglia",
             "description": "hot man",
             "photo_url": "https://i.pinimg.com/736x/c3/73/57/c37357337ff56c5d7a67376fee9c8db9.jpg"
+        },
+        {
+            "id": 2,
+            "name": "paimon",
+            "description": "zhivaya conserva",
+            "photo_url": "https://content.rozetka.com.ua/goods/images/big_tile/335339585.jpg"
         }
     ]
 }
