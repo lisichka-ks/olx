@@ -1,0 +1,19 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "lisichka",
+            "surname": "ls",
+            "photo_url": "https://as2.ftcdn.net/v2/jpg/00/76/47/97/1000_F_76479767_gv1iIKiZ0e9K1gw8YLGx5HBAQRHufrFB.jpg"
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "name": "pudding",
+            "description": "japan pudding cat",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYAFtn6cS838iD4eZ5TAkZZXn4GNAETthGw&s"
+        }
+    ]
+}
