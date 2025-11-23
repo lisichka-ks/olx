@@ -7,7 +7,7 @@
             "photo_url": "https://as2.ftcdn.net/v2/jpg/00/76/47/97/1000_F_76479767_gv1iIKiZ0e9K1gw8YLGx5HBAQRHufrFB.jpg"
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "Liao",
             "surname": "Xi" ,
             "photo_url": "https://i.pinimg.com/originals/f8/24/51/f8245125fc436fc66fa19b9f4ff88cfa.png"       
@@ -22,16 +22,22 @@
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYAFtn6cS838iD4eZ5TAkZZXn4GNAETthGw&s"
         },
         {
-            "id": 1,
+            "id": 2,
             "name": "tartaglia",
             "description": "hot man",
             "photo_url": "https://i.pinimg.com/736x/c3/73/57/c37357337ff56c5d7a67376fee9c8db9.jpg"
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "paimon",
             "description": "zhivaya conserva",
             "photo_url": "https://content.rozetka.com.ua/goods/images/big_tile/335339585.jpg"
+        },
+        {
+            "id": 4,
+            "name": "yagoda",
+            "description": "spelaya wishenka",
+            "photo_url": "https://ih1.redbubble.net/image.5304626467.7424/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u8.jpg"
         }
     ]
 }
